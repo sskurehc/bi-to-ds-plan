@@ -1,4 +1,4 @@
-# bi-to-ds-plan
+# bi2ds
 Steps to Transition into **Data Science** from an **ETL**, **Data Modeling** and **Business Intelligence** background.
 
 ## About me
